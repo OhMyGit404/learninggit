@@ -1,0 +1,3 @@
+/Users/allannguginganga./CLionProjects/studentmanagementsystem/cmake-build-debug/CMakeFiles/studentmanagementsystem.dir
+/Users/allannguginganga./CLionProjects/studentmanagementsystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allannguginganga./CLionProjects/studentmanagementsystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
